@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### Working on some cool network automation projects 😎
+### Skilled in network technologies 
 <!--
 **shoeb17/shoeb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
